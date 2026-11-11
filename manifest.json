@@ -1,0 +1,10 @@
+{
+  "Name": "超大屋子",
+  "Author": "guizhouuuu",
+  "Version": "1.1.0",
+  "Description": "在罗宾处把大屋子升级为超大屋子：25,000金币、999木头、500石头，施工2天，室内24×17格，占地不变，支持原版改色。",
+  "UniqueID": "guizhouuuu.ExtraLargeShed",
+  "EntryDll": "ExtraLargeShed.dll",
+  "MinimumApiVersion": "4.5.2",
+  "UpdateKeys": []
+}
